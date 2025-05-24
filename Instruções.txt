@@ -1,0 +1,12 @@
+docker compose up -d --build
+
+docker ps (confirmar que os containers estão rodando)
+
+http://localhost:5000/visitantes
+
+docker compose down
+
+docker ps
+
+docker compose up -d
+
